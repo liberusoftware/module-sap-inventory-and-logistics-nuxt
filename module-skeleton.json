@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-inventory-and-logistics-nuxt",
+  "capabilityKey": "planned:sap:inventory-and-logistics",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sap-inventory-and-logistics-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/sap/nextjs/inventory-and-logistics.md",
+  "presentationPlan": "projects/sap/nuxt/inventory-and-logistics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
